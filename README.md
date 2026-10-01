@@ -1,3 +1,21 @@
+# Hi 👋, I'm Shivam Kumar
+
+### 🎓 B.Tech AI/ML Student | 💻 Software & AI Enthusiast | 🤖 Machine Learning Learner
+
+I'm currently pursuing my **B.Tech in Artificial Intelligence & Machine Learning (AI/ML)**.
+
+- 🎓 I'm currently pursuing **B.Tech in AI/ML**
+- 🌱 I'm currently learning **Artificial Intelligence, Machine Learning & Data Structures**
+- 💻 I work with **Python, Java, C, C++ & JavaScript**
+- 🌐 I'm exploring **Web Development**
+- 🤖 I'm interested in **AI, Machine Learning & Software Development**
+- 🚀 I love building projects and exploring new technologies
+- 🤝 I'm open to **collaboration, projects and learning opportunities**
+- 💬 Ask me about **Python, Java, C/C++, DSA & Web Development**
+- 📫 How to reach me: **[Your Email]**
+- ⚡ Fun fact: **I love learning new technologies and turning ideas into projects!**
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivam Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivam.kumar781@outlook.com) 
